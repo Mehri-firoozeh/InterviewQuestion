@@ -1,0 +1,11 @@
+C:\Git\InterviewQuestion\CheckSubArray\CheckSubArray\bin\Debug\netcoreapp2.1\CheckSubArray.deps.json
+C:\Git\InterviewQuestion\CheckSubArray\CheckSubArray\bin\Debug\netcoreapp2.1\CheckSubArray.runtimeconfig.json
+C:\Git\InterviewQuestion\CheckSubArray\CheckSubArray\bin\Debug\netcoreapp2.1\CheckSubArray.runtimeconfig.dev.json
+C:\Git\InterviewQuestion\CheckSubArray\CheckSubArray\bin\Debug\netcoreapp2.1\CheckSubArray.dll
+C:\Git\InterviewQuestion\CheckSubArray\CheckSubArray\bin\Debug\netcoreapp2.1\CheckSubArray.pdb
+C:\Git\InterviewQuestion\CheckSubArray\CheckSubArray\obj\Debug\netcoreapp2.1\CheckSubArray.csprojAssemblyReference.cache
+C:\Git\InterviewQuestion\CheckSubArray\CheckSubArray\obj\Debug\netcoreapp2.1\CheckSubArray.csproj.CoreCompileInputs.cache
+C:\Git\InterviewQuestion\CheckSubArray\CheckSubArray\obj\Debug\netcoreapp2.1\CheckSubArray.AssemblyInfoInputs.cache
+C:\Git\InterviewQuestion\CheckSubArray\CheckSubArray\obj\Debug\netcoreapp2.1\CheckSubArray.AssemblyInfo.cs
+C:\Git\InterviewQuestion\CheckSubArray\CheckSubArray\obj\Debug\netcoreapp2.1\CheckSubArray.dll
+C:\Git\InterviewQuestion\CheckSubArray\CheckSubArray\obj\Debug\netcoreapp2.1\CheckSubArray.pdb
